@@ -1,0 +1,7 @@
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+H:\slides\C#\final code\Lab-2\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

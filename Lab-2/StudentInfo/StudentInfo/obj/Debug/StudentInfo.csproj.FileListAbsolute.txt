@@ -1,0 +1,7 @@
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojAssemblyReference.cache
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+H:\slides\C#\final code\Lab-2\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
