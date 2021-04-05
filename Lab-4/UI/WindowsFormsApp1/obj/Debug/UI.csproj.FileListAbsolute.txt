@@ -1,0 +1,10 @@
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\UI.csprojAssemblyReference.cache
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\UI.Form1.resources
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\UI.csproj.GenerateResource.cache
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\UI.csproj.CoreCompileInputs.cache
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\slides\C#\final code\Lab-4\UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
