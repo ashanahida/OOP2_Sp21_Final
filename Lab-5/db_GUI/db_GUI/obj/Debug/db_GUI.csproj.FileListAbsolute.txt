@@ -1,0 +1,30 @@
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.exe.config
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.pdb
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.Form1.resources
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.Properties.Resources.resources
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.GenerateResource.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.pdb
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\bin\Debug\db_GUI.exe.config
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\bin\Debug\db_GUI.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\bin\Debug\db_GUI.pdb
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.csprojAssemblyReference.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.Form1.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.Properties.Resources.resources
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.GenerateResource.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.CoreCompileInputs.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\db_GUI\db_GUI\obj\Debug\db_GUI.pdb
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\bin\Debug\db_GUI.exe.config
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\bin\Debug\db_GUI.exe
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\bin\Debug\db_GUI.pdb
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.csprojAssemblyReference.cache
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.Form1.resources
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.Properties.Resources.resources
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.GenerateResource.cache
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.CoreCompileInputs.cache
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.exe
+H:\slides\C#\final code\Lab-5\db_GUI\db_GUI\obj\Debug\db_GUI.pdb
